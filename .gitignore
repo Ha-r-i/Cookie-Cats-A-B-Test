@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+.local/
+tmp/
+output/
+data/*.csv
+.env
+.env.*
+!.env.example
