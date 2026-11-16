@@ -83,8 +83,6 @@ Day 1's non-significant result does not prove that early retention is unchanged.
 | `reports/results.json` | Full numerical results and configuration |
 | `reports/results.md` | Generated decision summary and limitations |
 | `tests/test_analysis.py` | Statistical cross-checks and invalid-input checks |
-| `INTERVIEW_PREP.md` | Plain-language explanation and interview questions |
-| `RESUME_ENTRY.md` | Concise, supported project wording |
 
 ## Limits
 
